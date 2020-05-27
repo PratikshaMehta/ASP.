@@ -1,0 +1,3 @@
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.DataTests\obj\Debug\5.EmployeeSkillsManager.Data.UnitTest.csprojAssemblyReference.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.DataTests\obj\Debug\EmployeeSkillsManager.DataTests.exe.config
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.DataTests\obj\Debug\5.EmployeeSkillsManager.Data.UnitTest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="EmployeeSkillsManager.DomainClasses">
+      <HintPath>..\..\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.DomainClasses.dll</HintPath>
+    </Reference>
+    <Reference Include="EmployeeSkillsManager.Repository">
+      <HintPath>..\..\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.Repository.dll</HintPath>
+    </Reference>
+    <Reference Include="EmployeeSKillsManagerMVC">
+      <HintPath>..\EmployeeSKillsManagerMVC\bin\EmployeeSKillsManagerMVC.dll</HintPath>
+    </Reference>
+    <Reference Include="EmployeeSkillsManagerWebAPI">
+      <HintPath>..\..\EmployeeSkillsManagerWebAPI\EmployeeSkillsManagerWebAPI\bin\EmployeeSkillsManagerWebAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

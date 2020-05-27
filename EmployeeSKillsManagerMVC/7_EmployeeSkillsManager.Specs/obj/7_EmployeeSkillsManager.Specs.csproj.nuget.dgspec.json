@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pratiksha.mehta\\source\\repos\\EmployeeSKillsManagerMVC\\7_EmployeeSkillsManager.Specs\\7_EmployeeSkillsManager.Specs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pratiksha.mehta\\source\\repos\\EmployeeSKillsManagerMVC\\7_EmployeeSkillsManager.Specs\\7_EmployeeSkillsManager.Specs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pratiksha.mehta\\source\\repos\\EmployeeSKillsManagerMVC\\7_EmployeeSkillsManager.Specs\\7_EmployeeSkillsManager.Specs.csproj",
+        "projectName": "7_EmployeeSkillsManager.Specs",
+        "projectPath": "C:\\Users\\pratiksha.mehta\\source\\repos\\EmployeeSKillsManagerMVC\\7_EmployeeSkillsManager.Specs\\7_EmployeeSkillsManager.Specs.csproj",
+        "packagesPath": "C:\\Users\\pratiksha.mehta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pratiksha.mehta\\source\\repos\\EmployeeSKillsManagerMVC\\7_EmployeeSkillsManager.Specs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pratiksha.mehta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

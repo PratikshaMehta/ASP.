@@ -1,0 +1,65 @@
+﻿@model IEnumerable<EmployeeSkillsManager.DomainClasses.EmployeeSkillsViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Employees Skills Assesment</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Department
+        </th>
+        <th>
+          Employee
+        </th>
+        <th>
+            Skill Category
+        </th>
+
+        <th>
+           Skill
+        </th>
+        <th>
+            Proficiency Level
+        </th>
+        <th>
+           Modofied Date
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Employee)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SkillCategory)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Skill)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProficiencyLevel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ModifiedDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { EmployeeID = item.EmployeeID, SkillID = item.SkillID }) |
+            @Html.ActionLink("Details", "Details", new { EmployeeID = item.EmployeeID, SkillID = item.SkillID }) |
+            @Html.ActionLink("Delete", "Delete", new { EmployeeID = item.EmployeeID, SkillID = item.SkillID }) |
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="nunit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\EmployeeSkillsManagerJson\EmployeeSkillsManagerJson\4_EmployeeSkillsManagerJson.csproj" />
+    <ProjectReference Include="..\..\EmployeeSkillsManagerWebAPI\EmployeeSkillsManagerWebAPI\5_EmployeeSkillsManagerWebAPI.csproj" />
+    <ProjectReference Include="..\..\EmployeeSkillsManager\EmployeeSkillsManager.DomainClasses\1_EmployeeSkillsManager.DomainClasses.csproj" />
+    <ProjectReference Include="..\..\EmployeeSkillsManager\EmployeeSkillsManager.Repository\2_EmployeeSkillsManager.Repository.csproj" />
+    <ProjectReference Include="..\EmployeeSKillsManagerMVC\3__EmployeeSKillsManagerMVC.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

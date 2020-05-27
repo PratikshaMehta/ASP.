@@ -1,0 +1,21 @@
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.deps.json
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.runtimeconfig.json
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.runtimeconfig.dev.json
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.AssemblyInfoInputs.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.AssemblyInfo.cs
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC - Final\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.deps.json
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.runtimeconfig.json
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.runtimeconfig.dev.json
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\bin\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.csprojAssemblyReference.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.AssemblyInfoInputs.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.AssemblyInfo.cs
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\EmployeeSkillsManager.Tests\obj\Debug\netcoreapp2.1\EmployeeSkillsManager.Tests.pdb

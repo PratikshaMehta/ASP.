@@ -1,0 +1,11 @@
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\obj\Debug\EmployeeCapacityApp.DomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\obj\Debug\EmployeeCapacityApp.DomainClasses.csproj.CopyComplete
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\obj\Debug\EmployeeCapacityApp.DomainClasses.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\bin\EmployeeCapacityApp.DomainClasses.dll.config
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\bin\EmployeeCapacityApp.DomainClasses.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\bin\EmployeeCapacityApp.DomainClasses.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\bin\EntityFramework.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\bin\EntityFramework.SqlServer.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\bin\EntityFramework.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\bin\EntityFramework.SqlServer.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp\EmployeeCapacityApp.DomainClasses\obj\Debug\EmployeeCapacityApp.DomainClasses.dll

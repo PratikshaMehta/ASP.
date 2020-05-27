@@ -1,0 +1,63 @@
+﻿@model EmployeeSkillsManager.DomainClasses.Skill
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<fieldset>
+    <legend>Edit Skill</legend>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.SkillID)
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.DateSkillAdded, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DateSkillAdded, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.DateSkillAdded, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="editor-label">
+        @Html.LabelFor(model => model.SkillCategoryID, "SkillCategoryID", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="editor-field">
+            @Html.DropDownList("SkillCategoryID", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.SkillCategoryID, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <p>
+        <input type="submit" value="Save" />
+    </p>
+</fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

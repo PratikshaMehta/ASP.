@@ -1,0 +1,3 @@
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\LINQQueriesTest\obj\Debug\8_LINQQueriesTest.csprojAssemblyReference.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSKillsManagerMVC\LINQQueriesTest\obj\Debug\8_LINQQueriesTest.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.mehta\git-repos\asp-net-mvc-webapi\EmployeeSKillsManagerMVC\LINQQueriesTest\obj\Debug\8_LINQQueriesTest.csprojResolveAssemblyReference.cache

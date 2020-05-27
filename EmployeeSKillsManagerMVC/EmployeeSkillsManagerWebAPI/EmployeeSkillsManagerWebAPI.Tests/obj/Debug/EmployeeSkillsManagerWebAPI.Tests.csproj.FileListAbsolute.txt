@@ -1,0 +1,2 @@
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManagerWebAPI\EmployeeSkillsManagerWebAPI.Tests\obj\Debug\EmployeeSkillsManagerWebAPI.Tests.csprojAssemblyReference.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManagerWebAPI\EmployeeSkillsManagerWebAPI.Tests\obj\Debug\EmployeeSkillsManagerWebAPI.Tests.csproj.CoreCompileInputs.cache

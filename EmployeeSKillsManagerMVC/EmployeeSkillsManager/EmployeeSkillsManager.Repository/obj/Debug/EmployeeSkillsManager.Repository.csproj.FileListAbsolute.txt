@@ -1,0 +1,86 @@
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EntityFramework.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.Net4.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.Web.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.Mvc.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\WebActivatorEx.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.Razor.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.WebPages.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EntityFramework.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.Net4.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.Web.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\StructureMap.Web.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.Mvc.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.Razor.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.WebPages.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.csprojAssemblyReference.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations.ChangeCapacityTableName.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations.ChangeCapacityTableName1.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations.ChangeCapacityTableName11.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.csproj.GenerateResource.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.csproj.CopyComplete
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EmployeeSkillsManager.Repository.dll.config
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EmployeeSkillsManager.Repository.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EmployeeSkillsManager.Repository.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EmployeeSkillsManager.DomainClasses.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EmployeeSkillsManager.DomainClasses.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\bin\EmployeeSkillsManager.DomainClasses.dll.config
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeCapacityApp - Copy - Copy\EmployeeCapacityApp.Repository\obj\Debug\EmployeeSkillsManager.Repository.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations.addSkillsTable.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations.RemoveFewColumnsFromEmpl.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations._2.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.csproj.GenerateResource.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.Repository.dll.config
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.Repository.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.Repository.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.DomainClasses.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EntityFramework.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.Net4.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.Web.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.Mvc.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\WebActivatorEx.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.Razor.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.WebPages.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.DomainClasses.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EmployeeSkillsManager.DomainClasses.dll.config
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EntityFramework.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.Net4.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.Web.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\StructureMap.Web.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.Mvc.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.Razor.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.WebPages.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.csproj.CopyComplete
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.dll
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.pdb
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations.Test.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.Migrations.Test1.resources
+C:\Users\pratiksha.mehta\source\repos\EmployeeSkillsManager\EmployeeSkillsManager.Repository\obj\Debug\EmployeeSkillsManager.Repository.csprojAssemblyReference.cache
