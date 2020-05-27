@@ -23,4 +23,3 @@ Used following concepts in this application:
 	Dependency resolution using structure map
 	Repository pattern
 	Generic repository pattern
-	Performed testing of ASP.NET MVC JSON controllers and ASP.NET MVC Web API controllers using postman client in chrome browser.
